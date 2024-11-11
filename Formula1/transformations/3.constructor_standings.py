@@ -21,7 +21,7 @@ constructor_standings_df = race_results_df \
 
 # COMMAND ----------
 
-display(constructor_standings_df.filter("race_year = 2020"))
+display(constructor_standings_df.filter("race_year = 2019"))
 
 # COMMAND ----------
 
